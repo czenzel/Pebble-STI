@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+	"radar": 0,
+        "cells": 1,
+        "closest": 2,
+        "detected": 3,
+        "heading": 4
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "teamWeather and Chris Zenzel",
+    "longName": "Detect Storms",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Clouds.png",
+                "name": "IMAGE_WX_CLOUDS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Detect Storms",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5d3b84e8-9871-4116-8608-e8b8c49ad834",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
